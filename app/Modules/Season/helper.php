@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	Season Helper
+ */
